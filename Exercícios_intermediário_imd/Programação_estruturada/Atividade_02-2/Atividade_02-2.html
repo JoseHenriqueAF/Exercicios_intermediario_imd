@@ -1,0 +1,55 @@
+<html >
+    <head>
+        <meta charset="UTF-8" />
+        <title>Programação Estruturada - Aula 02</title>
+    </head>
+    <body>
+        <noscript>Seu navegador não suporta JavaScript ou ele está desabilitado.</noscript>
+
+        <h1>Exercício</h1>
+
+        <h2>Atividade 02-2</h2>
+
+        <p id="minhaResposta"></p>
+
+        <script>
+        // var resposta = ??? ;    
+        //document.getElementById("minhaResposta").innerHTML = resposta;
+        
+        var tipo1 = typeof(0);
+        var tipo2 = typeof(3.14);
+        var tipo3 = typeof(Infinity);
+        var tipo4 = typeof(NaN);
+        var tipo5 = typeof(true);
+        var tipo6 = typeof(4>1);
+        var tipo7 = typeof("texto");
+        var tipo8 = typeof("É tetra " + 1984);
+        var tipo9 = typeof(Symbol("id"));
+        var tipo10 = typeof(Date);
+        var tipo11 = typeof(String);
+        var tipo12 = typeof([1,2,3,4]);
+        var tipo13 = typeof(null);
+        var tipo14 = typeof(undefined);
+        var tipo15 = typeof(alert); 
+        
+        var resposta = tipo1 + "<br>";
+        resposta = resposta + tipo2 + "<br>";
+        resposta = resposta + tipo3 + "<br>";
+        resposta = resposta + tipo4 + "<br>";
+        resposta = resposta + tipo5 + "<br>";
+        resposta = resposta + tipo6 + "<br>";
+        resposta = resposta + tipo7 + "<br>";
+        resposta = resposta + tipo8 + "<br>";
+        resposta = resposta + tipo9 + "<br>";
+        resposta = resposta + tipo10 + "<br>";
+        resposta = resposta + tipo11 + "<br>";
+        resposta = resposta + tipo12 + "<br>";
+        resposta = resposta + tipo13 + "<br>";
+        resposta = resposta + tipo14 + "<br>";
+        resposta = resposta + tipo15 + "<br>";
+
+        document.getElementById("minhaResposta").innerHTML = resposta;
+
+        </script>
+    </body>
+</html>

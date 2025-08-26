@@ -1,0 +1,12 @@
+ul{
+    background-color: blueviolet;
+    list-style-type: none;
+}
+
+ul li{
+    background-color: coral;
+}
+
+ol {
+    background-color: green;
+}

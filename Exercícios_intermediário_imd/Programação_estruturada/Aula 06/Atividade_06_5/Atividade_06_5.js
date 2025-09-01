@@ -9,7 +9,7 @@ function is_int(num) {
     if (typeof num !== 'number')
         return false; 
    
-   return !isNaN(num) && 
+   return ! (num) && 
           parseInt(Number(num)) == num && 
           !isNaN(parseInt(num, 10));
  }

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela 01</title>
+    <style>
+        table,td,th {
+            border: 1px solid black;
+            padding: 5px;
+            border-spacing: 5px;
+            border-collapse: collapse;
+        }
+
+        th{
+            text-align: left;
+            background-color: lightgrey;
+        }
+
+        td{
+            vertical-align: bottom;
+        }
+
+        
+        #table01 tr:hover{
+            background-color: orange;
+        }
+        table#table01 tr:nth-child(even){
+                background-color: lightblue;
+        }
+        table#table01 tr:nth-child(odd){
+                background-color: red;
+        }
+
+        tr:hover{
+            background-color: orange;
+        }
+    </style>
+</head>
+
+<body>
+    <table id="table01">
+        <tr>
+            <th>Nome</th>
+            <th>Sobre nome</th>
+            <th colspan="2">Telefone</th>
+        </tr>
+
+        <tr>
+            <td>João</td>
+            <td>Silva</td>
+            <td>4002-8923</td>
+            <td>2222-2222</td>
+        </tr>
+
+        <tr>
+            <td>Maria</td>
+            <td>Souza</td>
+            <td>4002-8922</td>
+            <td>3333-3333</td>
+        </tr>
+
+        <tr>
+            <td>Franciso</td>
+            <td>Ferreira</td>
+            <td>4444-4444</td>
+            <td>5555-5555</td>
+        </tr>
+    </table>
+
+    <br>
+    <table>
+        <tr>
+            <th>Nome</th>
+            <td>João</td>
+            <td>Maria</td>
+        </tr>
+
+        <tr>
+            <th>Sobrenome</th>
+            <td>Silva</td>
+            <td>Souza</td>
+        </tr>
+
+        <tr>
+            <th rowspan="2">Telefone</th>
+            <td>4002-8923</td>
+            <td>4002-8922</td>
+        </tr>
+
+        <tr>
+            <td>2222-2222</td>
+            <td>3333-3333</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <th colspan="2">Telefone</th>
+        </tr>
+        <tr>
+            <td>Bill Gates</td>
+            <td>55577854</td>
+            <td>55577855</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <td>Bill Gates</td>
+        </tr>
+        <tr>
+            <th rowspan="2">Telefone</th>
+            <td>55577854</td>
+        </tr>
+        <tr>
+            <td>55577855</td>
+        </tr>
+    </table>
+</body>
+
+</html>

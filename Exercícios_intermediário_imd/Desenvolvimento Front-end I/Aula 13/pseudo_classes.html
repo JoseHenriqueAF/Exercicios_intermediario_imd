@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        div{
+            background-color: green;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+
+        div:hover{
+            background-color: yellow;
+            color: black;
+            cursor: pointer;
+        }
+
+        p:nth-child(even){
+            color: blue;
+        }
+
+        p:first-child::first-letter{
+            font-size: 50px;
+            color: blue;
+        }
+
+        h2:nth-child(8)::before{
+            content:'-->';
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <!-- <div>Passa o mouse</div> -->
+
+    <h2>Título 2</h2>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil, saepe architecto! Debitis eius dolore consectetur similique placeat consequatur iste quidem enim voluptatem quo mollitia maiores voluptates, reprehenderit at delectus laborum.</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam eaque iure labore dignissimos modi natus non culpa cum, ratione sit ipsa molestias quia, aperiam aliquid eligendi eveniet sequi molestiae?</p>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil, saepe architecto! Debitis eius dolore consectetur similique placeat consequatur iste quidem enim voluptatem quo mollitia maiores voluptates, reprehenderit at delectus laborum.</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam eaque iure labore dignissimos modi natus non culpa cum, ratione sit ipsa molestias quia, aperiam aliquid eligendi eveniet sequi molestiae?</p>
+    
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil, saepe architecto! Debitis eius dolore consectetur similique placeat consequatur iste quidem enim voluptatem quo mollitia maiores voluptates, reprehenderit at delectus laborum.</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, laboriosam eaque iure labore dignissimos modi natus non culpa cum, ratione sit ipsa molestias quia, aperiam aliquid eligendi eveniet sequi molestiae?</p>
+
+    <h2>Texto 2 H2</h2>
+
+</body>
+</html>

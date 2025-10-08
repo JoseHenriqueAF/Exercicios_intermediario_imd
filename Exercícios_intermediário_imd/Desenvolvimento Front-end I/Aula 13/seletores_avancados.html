@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Seletores Avançados</title>
+    <style>
+        /* Seletor de todos elementos. */
+        /* * {
+            margin: 0;
+        }*/
+
+        /* Seletor de descendente */
+        /* div p{
+            color:rgb(79, 165, 56);
+        } */
+
+        /* Seletor de descendente direto */
+         /* div > p{
+            color:rgb(79, 165, 56);
+        }  */
+
+        /* Seleciona os h2 que seguem e compatilham mesmo pai da section. */
+        /* section ~ h2 {
+            color: lightsteelblue;
+        } */
+
+        /* Selectiona os h2 irmão e logo após a section */
+        section + h2 {
+            color: lightsteelblue;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div>
+        <h2>Título 2</h1>
+            <section>
+                <p>Parágrafo dentro de uma section</p>
+                <div>
+                    <p>Parágrafo dentro de uma div.</p>
+                </div>
+            </section>
+            <h2>Título 2 Logo após a Section</h2>
+            <h2>Título 2 Logo após a H2</h2>
+    </div>
+
+    <h2>Título 2 após a div</h2>
+
+    <p>Parágrado fora irmão</p>
+
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var terrestre_1 = require("./terrestre");
+var transporte_1 = require("./transporte");
+var terrestre = new terrestre_1.Terrestre();
+terrestre.capacidade = 5;
+console.log(terrestre.capacidade);
+var transporte = new transporte_1.Transporte;
+terrestre.numRodas = 4;
+terrestre.exibirInformacoes();

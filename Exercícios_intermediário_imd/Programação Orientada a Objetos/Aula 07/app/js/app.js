@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var transporte_1 = require("./teste/transporte");
+var terrestre_1 = require("./teste/terrestre");
+var transporte = new transporte_1.Transporte(5);
+var terrestre = new terrestre_1.Terrestre(4, 6);
+// terrestre.capacidade = 5;
+// terrestre.numRodas = 4;
+// terrestre.exibirInformacoes();
+// console.log(`Capacidade de Transporte: ${transporte.capacidade}.\nCapacidade de Terrestre ${terrestre.capacidade}.\nNúmero de Rodas: ${terrestre.numRodas}.`);
+//transporte.exibirInformacoes();
+terrestre.exibirInformacoes();

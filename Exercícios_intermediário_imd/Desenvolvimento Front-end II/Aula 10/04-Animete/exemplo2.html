@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $(".box").animate({ width: "300px" });
+                $(".box").animate({ height: "300px" });
+                $(".box").animate({ marginLeft: "250px" });
+                $(".box").animate({ borderWidth: "20px" });
+                $(".box").animate({ opacity: 0.5 });
+            });
+        });
+    </script>
+    <style>
+        .box {
+            width: 100px;
+            height: 100px;
+            background: #4265ff;
+            border-style: solid;
+            border-color: #ff0000;
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <button>Começar Animação!</button>
+    <div class="box"></div>
+</body>
+
+</html>

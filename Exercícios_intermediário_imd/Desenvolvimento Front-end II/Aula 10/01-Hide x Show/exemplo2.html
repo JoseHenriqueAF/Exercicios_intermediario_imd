@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#btnHide").click(function () {
+                $("p.normal").hide();
+                $("p.rapido").hide("fast");
+                $("p.devagar").hide("slow");
+                $("p.muito-rapido").hide(50);
+                $("p.muito-devagar").hide(2000);
+            });
+
+            $("#btnShow").click(function () {
+                $("p.normal").show();
+                $("p.rapido").show("fast");
+                $("p.devagar").show("slow");
+                $("p.muito-rapido").show(50);
+                $("p.muito-devagar").show(2000);
+            });
+        });
+
+    </script>
+
+    <style>
+        p {
+            padding: 15px;
+            background-color: #ff7f7f;
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <button id="btnHide">Hide</button>
+    <button id="btnShow">Show</button>
+
+    <p class="muito-devagar">Muito devagadr</p>
+    <p class="devagar">Devagar</p>
+    <p class="normal">Normal</p>
+    <p class="rapido">Rapido</p>
+    <p class="muito-rapido">Muito Rapido</p>
+</body>
+
+</html>

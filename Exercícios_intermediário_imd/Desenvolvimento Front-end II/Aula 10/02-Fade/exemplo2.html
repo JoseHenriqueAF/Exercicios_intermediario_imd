@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#btnFadeOut").click(function () {
+                $("p.normal").fadeOut();
+                $("p.rapido").fadeOut("fast");
+                $("p.devagar").fadeOut("slow");
+                $("p.muito-rapido").fadeOut(50);
+                $("p.muito-devagar").fadeOut(2000);
+            });
+
+            $("#btnFadeIn").click(function () {
+                $("p.normal").fadeIn();
+                $("p.rapido").fadeIn("fast");
+                $("p.devagar").fadeIn("slow");
+                $("p.muito-rapido").fadeIn(50);
+                $("p.muito-devagar").fadeIn(2000);
+            });
+        });
+    </script>
+
+    <style>
+        p {
+            padding: 15px;
+            background-color: #ff7f7f;
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <button id="btnFadeOut">FadeOut</button>
+    <button id="btnFadeIn">FadeIn</button>
+
+    <p class="muito-devagar">Muito devagadr</p>
+    <p class="devagar">Devagar</p>
+    <p class="normal">Normal</p>
+    <p class="rapido">Rapido</p>
+    <p class="muito-rapido">Muito Rapido</p>
+</body>
+
+</html>

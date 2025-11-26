@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#iniciar").click(function () {
+                $(".box").animate({
+                    width: "300px",
+                    height: "300px",
+                    marginLeft: "250px",
+                    borderWidth: "20px",
+                    opacity: 0.5,
+                }, 5000);
+            });
+
+            $("#parar").click(function () {
+                $(".box").stop();
+            });
+        });
+
+
+    </script>
+    <style>
+        .box {
+            width: 100px;
+            height: 100px;
+            background: #4265ff;
+            border-style: solid;
+            border-color: #ff0000;
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <button id="iniciar">Começar Animação!</button>
+    <button id="parar">Parar Animação</button> <br><br>
+    <div class="box"></div>
+</body>
+
+</html>

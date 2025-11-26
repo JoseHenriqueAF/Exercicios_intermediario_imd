@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#btnSlideUp").click(function () {
+                $("p").slideUp();
+            });
+
+            $("#btnSlideDown").click(function () {
+                $("p").slideDown();
+            });
+        });
+
+    </script>
+    <style>
+        p {
+            padding: 15px;
+            background-color: #ff7f7f;
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <button id="btnSlideUp">Slide Up</button>
+    <button id="btnSlideDown">Slide Down</button>
+
+    <p>Isso é um paragráfo</p>
+    <p>Isso é um outro paragráfo</p>
+</body>
+
+</html>

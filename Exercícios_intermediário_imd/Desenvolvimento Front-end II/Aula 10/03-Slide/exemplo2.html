@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#btnSlideUp").click(function () {
+                $("p.normal").slideUp();
+                $("p.rapido").slideUp("fast");
+                $("p.devagar").slideUp("slow");
+                $("p.muito-rapido").slideUp(50);
+                $("p.muito-devagar").slideUp(2000);
+            });
+
+            $("#btnSlideDown").click(function () {
+                $("p.normal").slideDown();
+                $("p.rapido").slideDown("fast");
+                $("p.devagar").slideDown("slow");
+                $("p.muito-rapido").slideDown(50);
+                $("p.muito-devagar").slideDown(2000);
+            });
+        });
+
+    </script>
+
+    <style>
+        p {
+            padding: 15px;
+            background-color: #ff7f7f;
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <button id="btnSlideUp">SlideUp</button>
+    <button id="btnSlideDown">SlideDown</button>
+
+    <p class="muito-devagar">Muito devagadr</p>
+    <p class="devagar">Devagar</p>
+    <p class="normal">Normal</p>
+    <p class="rapido">Rapido</p>
+    <p class="muito-rapido">Muito Rapido</p>
+</body>
+
+</html>

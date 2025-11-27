@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wrap</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button.negrito").click(function () {
+                $("#principal").wrap("<strong></strong>"); // ao clique no botão, envolve o elemento de ID `principal` com a *tag* <strong>
+            });
+
+            $("button.italico").click(function () {
+                $("#principal").wrap("<em></em>"); // ao clique no botão, envolve o elemento de ID `principal` com a *tag* <em>
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+    <button class="negrito">Deixa o parágrafo em <strong>Negrito</strong></button>
+    <button class="italico">Deixa o parágrafo em <em>Itálico</em></button>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, sunt maxime eum error hic labore
+        praesentium voluptas facere fuga, expedita est molestias corrupti, vel id corporis debitis molestiae
+        pariatur optio.
+    </p>
+
+    <p style="color: red" id="principal">
+        Ipsum dolor sit amet consectetur adipisicing elit. Beatae voluptatum laudantium saepe fugit. Ducimus,
+        impedit pariatur qui praesentium, odio consequuntur dolor mollitia eaque molestiae cum soluta provident
+        doloremque ipsam ipsum.
+    </p>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, sunt maxime eum error hic labore
+        praesentium voluptas facere fuga, expedita est molestias corrupti, vel id corporis debitis molestiae
+        pariatur optio.
+    </p>
+
+
+
+
+</body>
+
+</html>

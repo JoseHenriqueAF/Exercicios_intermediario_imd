@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remove</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $("p.dica").remove(); // remove o elemento selecionado e todos os seus elementos filhos
+
+            });
+
+
+        });
+
+    </script>
+
+    <style>
+        .container {
+            padding: 10px;
+            background: #99f08c;
+            border: 2px solid #18be2b;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Atenção!</h1>
+        <p class="dica">
+            Se você clicar no botão esse paragráfo será removido    
+        </p>
+
+            <button>Remover paragráfo</button>
+    </div>
+
+
+
+</body>
+
+</html>

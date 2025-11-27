@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Val</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".get-nome").click(function () {
+                var str = $("textarea").val(); // lendo o valor do elemento <textarea>
+                alert(str);
+            });
+            $(".set-nome").click(function () {
+                $("textarea").val("Fulano"); // atribuindo um valor ao elemento <textarea>
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+
+
+    <p>Comentário:</p>
+    <textarea rows="4" cols="30" name="" id="comentario"></textarea> <br> <br>
+
+    <button type="button" class="get-nome">Get nome</button>
+    <button type="button" class="set-nome">Set nome</strong></button>
+
+</body>
+
+</html>

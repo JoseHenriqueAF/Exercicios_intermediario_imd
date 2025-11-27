@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empty</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $(".container").empty(); // remove todos os elementos filhos do elemento selecionado
+
+            });
+
+
+        });
+
+    </script>
+
+    <style>
+        .container {
+            padding: 10px;
+            background: #99f08c;
+            border: 2px solid #18be2b;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Atenção!</h1>
+        <p>
+            Se você clicar no botão todos os conteúdos da div serão removidos, invcluindo o botão.
+        </p>
+
+            <button>Esvaziar o contêiner</button>
+    </div>
+
+
+
+</body>
+
+</html>

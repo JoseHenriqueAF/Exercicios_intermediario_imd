@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RemoveAttr</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $("a").removeAttr("href"); // remove os atributos href dos links
+            });
+
+
+        });
+
+    </script>
+
+    <!-- <style>
+        .container {
+            padding: 10px;
+            background: #99f08c;
+            border: 2px solid #18be2b;
+        }
+    </style> -->
+</head>
+
+<body>
+    <div class="container">
+        <p>
+            <a href="http://www.google.com">Google</a>
+            <a href="http://www.imd.ufrn.br">IMD</a>
+            <a href="http://www.ufrn.br">UFRN</a>
+        </p>
+
+            <button>Remover Atributos <em>href</em> dos link</button>
+    </div>
+
+
+
+</body>
+
+</html> 

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attr</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btn-ler-link").click(function () {
+                var str = $("a").attr("href"); // lendo o valor do atributo `href`do elemento selecionado
+                alert(str);
+            });
+
+            $("#btn-definir-link").click(function () {
+                $("a").attr("href", "http://www.imd.ufrn.br"); // atribuindo um valor ao atributo `href`do elemento selecionado
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+    
+    <p>
+        <a href="http://www.google.com">Link</a>
+    </p>
+    
+
+    <button type="button" id="btn-ler-link">Ler o atributo do link</button>
+    <button type="button" id="btn-definir-link">Mudar o atributo href do link para <strong>imd.ufrn.com</strong></button>
+
+</body>
+
+</html>

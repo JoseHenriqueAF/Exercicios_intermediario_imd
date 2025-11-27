@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".btn-um").click(function () {
+                var str = $("#p1").text(); // lendo o valor do elemento selecionado (getter)
+                alert(str);
+            });
+
+            $(".btn-dois").click(function () {
+                var str = $("#p1").html(); // lendo o valor em HTML do elemento selecionado (getter)
+                alert(str);
+            });
+
+            $(".btn-tres").click(function () {
+                $("#p2").html(
+                    "Estou definindo um novo <strong>código HTML</strong> com o método html()" // atribuindo um valor em HTML ao elemento selecionado (setter)
+                );
+            });
+
+        });
+
+    </script>
+</head>
+
+<body>
+
+    <p id="p1">Isso é um <em>paragráfo</em></p>
+    <p id="p2">Isso é um outro paragráfo</p>
+
+
+    <button type="button" class="btn-um">Ler o texto de todos os paragráfos</button> <br> <br>
+    <button type="button" class="btn-dois">Ler o HTML do primeiro parágrafo com html() </button><br> <br>
+    <button type="button" class="btn-tres">Definir um novo código HTML ao último paragráfo</button>
+
+
+</body>
+
+</html>

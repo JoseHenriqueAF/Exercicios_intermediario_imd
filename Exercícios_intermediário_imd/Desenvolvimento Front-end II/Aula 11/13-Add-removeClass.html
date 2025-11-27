@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add e Remove Class</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btnAddCor").click(function () {
+                $("h1").addClass("cor");
+            });
+            $("#btnRemoveCor").click(function () {
+                $("h1").removeClass("cor");
+            });
+
+            $("#btnAddDestaque").click(function () {
+                $("h1").addClass("destaque");
+            });
+
+            $("#btnRemoveDestaque").click(function () {
+                $("h1").removeClass("destaque");
+            });
+
+            $("#btnAddAll").click(function () {
+                $("h1").addClass("cor destaque");
+            });
+
+            
+            $("#btnRemoveAll").click(function () {
+                $("h1").removeClass("cor destaque");
+            });
+        });
+
+    </script>
+
+    <style>
+        .cor {
+            color: red;
+        }
+
+        .destaque {
+            background: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Hello world!</h1>
+    <p>Cor vermelha</p>
+    <button id="btnAddCor">Adicionar classe "cor"</button>
+    <button id="btnRemoveCor">Remover classe "cor"</button>
+    <p>background Amarelo</p>
+    <button id="btnAddDestaque">Adicionar classe "destaque"</button>
+    <button id="btnRemoveDestaque">Remover classe "destaque"</button>
+    <p>Cor vermelha e background amarelo</p>
+    <button id="btnAddAll">Adicionar classes "cor destaque"</button>
+    <button id="btnRemoveAll">Remover classes "cor destaque"</button>
+
+
+
+
+
+</body>
+
+</html>

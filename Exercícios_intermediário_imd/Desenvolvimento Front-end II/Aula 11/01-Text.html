@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".btn-um").click(function () {
+                var str = $("p").text(); // lendo o valor do elemento selecionado (getter)
+                alert(str);
+            });
+
+            $(".btn-dois").click(function () {
+                $("p.especial").text("Estou definindo um novo valor com o método text()"); // atribuindo um valor ao elemento selecionado (setter)
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+
+    <p>Isso é um paragráfo</p>
+    <p>Isso é um outro paragráfo</p>
+    <p class="especial">Isso é mais um outro paragráfo</p>
+
+    <button type="button" class="btn-um">Ler o texto de todos os paragráfos</button>
+    <button type="button" class="btn-dois">Definir um novo valor ao último paragráfo</button>
+
+</body>
+
+</html>

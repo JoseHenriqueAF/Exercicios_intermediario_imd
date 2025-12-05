@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                var url = "dados.json";
+
+                $.get(url, function (resposta, status) {
+                    $("#filme").text(resposta.Title);
+                });
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+    <h1>Exemplo Ajax JQuery</h1>
+    <p id="hint">Isso é um exemplo de carregamento assíncrono usando JQuery GET</p>
+    <p id="filme"></p>
+    <button type="button">Carregar Título! </button>
+</body>
+
+</html>

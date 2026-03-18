@@ -1,0 +1,19 @@
+{
+  "name": "aula_04",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Henrique",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec node index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuid": "^8.3.2"
+  }
+}

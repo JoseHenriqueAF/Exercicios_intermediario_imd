@@ -1,0 +1,35 @@
+GET http://localhost:8080/usuarios
+
+###
+
+GET http://localhost:8080/usuarios/1
+
+
+###
+
+GET http://localhost:8080/usuarios
+
+###
+
+POST http://localhost:8080/usuarios
+Content-type: application/json
+
+{
+    "email": "pedro@gmail.com",
+    "senha": "algumasenha"
+    
+}
+
+###
+
+PUT http://localhost:8080/usuarios?id=8ee76c64-1f30-43e1-bb81-66a5c3323cfd  
+Content-type: application/json
+
+{
+    "email": "Carlos@gamil.com",
+    "senha": "algumasenhadois"
+}
+
+###
+
+DELETE http://localhost:8080/alunos?id=e76008d9-9eec-44fc-b9f0-0351b1272dfa

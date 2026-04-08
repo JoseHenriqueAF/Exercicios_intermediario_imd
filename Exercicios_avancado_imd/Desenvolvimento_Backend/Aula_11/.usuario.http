@@ -1,0 +1,35 @@
+GET http://localhost:8080/api/usuarios
+
+###
+
+GET http://localhost:8080/api/usuarios/1
+
+
+###
+
+GET http://localhost:8080/api/usuarios
+
+###
+
+POST http://localhost:8080/api/usuarios
+Content-type: application/json
+
+{
+    "email": "tesla@gmail.com",
+    "senha": "ifjd73h3"
+    
+}
+
+###
+
+PUT http://localhost:8080/api/usuarios?id=8ee76c64-1f30-43e1-bb81-66a5c3323cfd  
+Content-type: application/json
+
+{
+    "email": "Carlos@gamil.com",
+    "senha": "algumasenhadois"
+}
+
+###
+
+DELETE http://localhost:8080/api/usuarios?id=

@@ -1,0 +1,31 @@
+GET http://localhost:8080/api/posts
+
+###
+
+GET http://localhost:8080/api/posts/1
+
+
+###
+POST http://localhost:8080/api/posts
+Content-Type : application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjMsImlzcyI6ImltZC1iYWNrZW5kIiwiYXVkIjoiaW1kLWZyb250ZW5kIiwiZW1haWwiOiJ0dXJpbmdAZ21haWwuY29tIiwiaWF0IjoxNzc2NzgyNjIxLCJleHAiOjE3NzY3ODI2NjF9.gWopFEMWan5OTatqadJFL_p7tDeYA0iIlaoZiqP4MQQ
+
+{
+    "titulo" :   "Programando em JS Backend",
+    "texto" : "Título do texto...",
+    "userId": 3
+}
+
+###
+
+PUT http://localhost:8080/api/posts?id=1
+Content-Type: application/json
+
+{
+    "titulo": "Novo titulo",
+    "texto": "Novo texto"
+}
+
+###
+
+DELETE http://localhost:8080/api/posts?id=1

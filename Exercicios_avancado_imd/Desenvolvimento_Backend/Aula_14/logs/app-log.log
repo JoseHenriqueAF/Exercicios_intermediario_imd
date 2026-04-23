@@ -1,0 +1,788 @@
+2026-04-15T18:36:09.232Z [info] Iniciando no ambiente development
+2026-04-15T18:36:09.236Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:01.149Z [info] Iniciando no ambiente development
+2026-04-15T18:37:01.153Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:10.688Z [info] Iniciando no ambiente development
+2026-04-15T18:37:10.693Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:12.945Z [info] Iniciando no ambiente development
+2026-04-15T18:37:12.949Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:16.108Z [info] Iniciando no ambiente development
+2026-04-15T18:37:16.112Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:18.673Z [info] Iniciando no ambiente development
+2026-04-15T18:37:18.676Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:23.046Z [info] Iniciando no ambiente development
+2026-04-15T18:37:23.051Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:28.517Z [info] Iniciando no ambiente development
+2026-04-15T18:37:28.522Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:34.200Z [info] Iniciando no ambiente development
+2026-04-15T18:37:34.206Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:37.219Z [info] Iniciando no ambiente development
+2026-04-15T18:37:37.223Z [info] Servidor pronto na porta 8080
+2026-04-15T18:37:41.999Z [info] Iniciando no ambiente development
+2026-04-15T18:37:42.002Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:00.444Z [info] Iniciando no ambiente development
+2026-04-15T18:38:00.448Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:05.261Z [info] Iniciando no ambiente development
+2026-04-15T18:38:05.271Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:08.593Z [info] Iniciando no ambiente development
+2026-04-15T18:38:08.597Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:11.163Z [info] Iniciando no ambiente development
+2026-04-15T18:38:11.167Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:13.226Z [info] Iniciando no ambiente development
+2026-04-15T18:38:13.230Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:22.681Z [info] Iniciando no ambiente development
+2026-04-15T18:38:22.685Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:25.579Z [info] Iniciando no ambiente development
+2026-04-15T18:38:25.582Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:27.513Z [info] Iniciando no ambiente development
+2026-04-15T18:38:27.516Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:31.520Z [info] Iniciando no ambiente development
+2026-04-15T18:38:31.524Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:35.473Z [info] Iniciando no ambiente development
+2026-04-15T18:38:35.477Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:38.226Z [info] Iniciando no ambiente development
+2026-04-15T18:38:38.229Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:47.178Z [info] Iniciando no ambiente development
+2026-04-15T18:38:47.183Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:49.440Z [info] Iniciando no ambiente development
+2026-04-15T18:38:49.445Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:53.121Z [info] Iniciando no ambiente development
+2026-04-15T18:38:53.125Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:55.378Z [info] Iniciando no ambiente development
+2026-04-15T18:38:55.382Z [info] Servidor pronto na porta 8080
+2026-04-15T18:38:58.334Z [info] Iniciando no ambiente development
+2026-04-15T18:38:58.338Z [info] Servidor pronto na porta 8080
+2026-04-15T18:39:24.713Z [info] Iniciando no ambiente development
+2026-04-15T18:39:24.718Z [info] Servidor pronto na porta 8080
+2026-04-15T18:39:31.801Z [info] Iniciando no ambiente development
+2026-04-15T18:39:31.805Z [info] Servidor pronto na porta 8080
+2026-04-15T18:40:45.699Z [info] Iniciando no ambiente development
+2026-04-15T18:40:45.702Z [info] Servidor pronto na porta 8080
+2026-04-15T18:41:55.268Z [info] Iniciando no ambiente development
+2026-04-15T18:41:55.272Z [info] Servidor pronto na porta 8080
+2026-04-15T18:44:29.667Z [info] Iniciando no ambiente development
+2026-04-15T18:44:29.671Z [info] Servidor pronto na porta 8080
+2026-04-15T18:44:45.874Z [debug] Requisição GET na rota /api/posts
+2026-04-21T12:38:45.826Z [info] Iniciando no ambiente development
+2026-04-21T12:38:45.829Z [info] Servidor pronto na porta 8080
+2026-04-21T12:40:56.380Z [info] Iniciando no ambiente development
+2026-04-21T12:40:56.383Z [info] Servidor pronto na porta 8080
+2026-04-21T12:42:01.047Z [debug] Requisição POST na rota /api/usuarios
+2026-04-21T13:03:21.675Z [info] Iniciando no ambiente development
+2026-04-21T13:03:21.678Z [info] Servidor pronto na porta 8080
+2026-04-21T13:03:23.793Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T13:03:47.848Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T13:03:52.528Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T13:04:33.713Z [debug] Requisição GET na rota /api/usuarios
+2026-04-21T13:05:16.596Z [debug] Requisição DELETE na rota /api/usuarios
+2026-04-21T13:05:22.924Z [debug] Requisição DELETE na rota /api/usuarios
+2026-04-21T13:05:26.713Z [debug] Requisição GET na rota /api/usuarios
+2026-04-21T13:05:57.112Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T13:06:02.428Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T13:11:34.114Z [info] Iniciando no ambiente development
+2026-04-21T13:11:34.117Z [info] Servidor pronto na porta 8080
+2026-04-21T13:11:52.115Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T13:12:07.919Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T13:37:48.527Z [info] Iniciando no ambiente development
+2026-04-21T13:37:48.530Z [info] Servidor pronto na porta 8080
+2026-04-21T13:37:56.812Z [debug] Requisição GET na rota /api/usuarios
+2026-04-21T14:00:32.030Z [info] Iniciando no ambiente development
+2026-04-21T14:00:32.033Z [info] Servidor pronto na porta 8080
+2026-04-21T14:03:59.449Z [debug] Requisição POST na rota /api/usuarios
+2026-04-21T14:04:24.663Z [debug] Requisição DELETE na rota /api/usuarios
+2026-04-21T14:04:31.728Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T14:04:49.041Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T14:06:06.690Z [info] Iniciando no ambiente development
+2026-04-21T14:06:06.693Z [info] Servidor pronto na porta 8080
+2026-04-21T14:06:11.104Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T14:09:03.528Z [info] Iniciando no ambiente development
+2026-04-21T14:09:03.531Z [info] Servidor pronto na porta 8080
+2026-04-21T14:09:22.339Z [info] Iniciando no ambiente development
+2026-04-21T14:09:22.342Z [info] Servidor pronto na porta 8080
+2026-04-21T14:09:30.634Z [info] Iniciando no ambiente development
+2026-04-21T14:09:30.638Z [info] Servidor pronto na porta 8080
+2026-04-21T14:09:32.851Z [info] Iniciando no ambiente development
+2026-04-21T14:09:32.855Z [info] Servidor pronto na porta 8080
+2026-04-21T14:09:39.071Z [info] Iniciando no ambiente development
+2026-04-21T14:09:39.074Z [info] Servidor pronto na porta 8080
+2026-04-21T14:10:50.046Z [info] Iniciando no ambiente development
+2026-04-21T14:10:50.049Z [info] Servidor pronto na porta 8080
+2026-04-21T14:11:03.492Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T14:11:08.581Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T14:12:03.931Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T14:12:12.744Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T14:19:37.418Z [info] Iniciando no ambiente development
+2026-04-21T14:19:37.422Z [info] Servidor pronto na porta 8080
+2026-04-21T14:19:54.722Z [info] Iniciando no ambiente development
+2026-04-21T14:19:54.725Z [info] Servidor pronto na porta 8080
+2026-04-21T14:19:57.675Z [info] Iniciando no ambiente development
+2026-04-21T14:19:57.680Z [info] Servidor pronto na porta 8080
+2026-04-21T14:20:00.720Z [info] Iniciando no ambiente development
+2026-04-21T14:20:00.723Z [info] Servidor pronto na porta 8080
+2026-04-21T14:20:03.358Z [info] Iniciando no ambiente development
+2026-04-21T14:20:03.364Z [info] Servidor pronto na porta 8080
+2026-04-21T14:20:05.536Z [info] Iniciando no ambiente development
+2026-04-21T14:20:05.541Z [info] Servidor pronto na porta 8080
+2026-04-21T14:20:22.085Z [info] Iniciando no ambiente development
+2026-04-21T14:20:22.088Z [info] Servidor pronto na porta 8080
+2026-04-21T14:20:25.789Z [info] Iniciando no ambiente development
+2026-04-21T14:20:25.793Z [info] Servidor pronto na porta 8080
+2026-04-21T14:20:34.326Z [info] Iniciando no ambiente development
+2026-04-21T14:20:34.329Z [info] Servidor pronto na porta 8080
+2026-04-21T14:21:24.664Z [info] Iniciando no ambiente development
+2026-04-21T14:21:24.669Z [info] Servidor pronto na porta 8080
+2026-04-21T14:21:29.601Z [info] Iniciando no ambiente development
+2026-04-21T14:21:29.604Z [info] Servidor pronto na porta 8080
+2026-04-21T14:21:32.493Z [info] Iniciando no ambiente development
+2026-04-21T14:21:32.498Z [info] Servidor pronto na porta 8080
+2026-04-21T14:21:35.077Z [info] Iniciando no ambiente development
+2026-04-21T14:21:35.081Z [info] Servidor pronto na porta 8080
+2026-04-21T14:21:40.293Z [info] Iniciando no ambiente development
+2026-04-21T14:21:40.296Z [info] Servidor pronto na porta 8080
+2026-04-21T14:35:35.834Z [info] Iniciando no ambiente development
+2026-04-21T14:35:35.837Z [info] Servidor pronto na porta 8080
+2026-04-21T14:35:48.643Z [debug] Requisição POST na rota /api/posts
+2026-04-21T14:36:52.008Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T14:37:42.005Z [debug] Requisição POST na rota /api/posts
+2026-04-21T14:38:40.551Z [debug] Requisição GET na rota /api/usuarios
+2026-04-21T14:39:09.912Z [debug] Requisição POST na rota /api/posts
+2026-04-21T14:41:13.758Z [info] Iniciando no ambiente development
+2026-04-21T14:41:13.761Z [info] Servidor pronto na porta 8080
+2026-04-21T14:42:43.029Z [info] Iniciando no ambiente development
+2026-04-21T14:42:43.033Z [info] Servidor pronto na porta 8080
+2026-04-21T14:42:45.821Z [info] Iniciando no ambiente development
+2026-04-21T14:42:45.825Z [info] Servidor pronto na porta 8080
+2026-04-21T14:42:49.208Z [info] Iniciando no ambiente development
+2026-04-21T14:42:49.212Z [info] Servidor pronto na porta 8080
+2026-04-21T14:42:52.422Z [info] Iniciando no ambiente development
+2026-04-21T14:42:52.425Z [info] Servidor pronto na porta 8080
+2026-04-21T14:43:10.413Z [info] Iniciando no ambiente development
+2026-04-21T14:43:10.417Z [info] Servidor pronto na porta 8080
+2026-04-21T14:43:40.943Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-21T14:44:08.251Z [debug] Requisição POST na rota /api/posts
+2026-04-21T14:45:27.442Z [debug] Requisição POST na rota /api/posts
+2026-04-22T16:35:54.278Z [info] Iniciando no ambiente development
+2026-04-22T16:35:54.281Z [info] Servidor pronto na porta 8080
+2026-04-22T16:36:13.455Z [debug] Requisição GET na rota /
+2026-04-22T16:36:13.573Z [debug] Requisição GET na rota /static/uploads/foto-1775671791424.jpg
+2026-04-22T16:36:13.577Z [debug] Requisição GET na rota /static/uploads/foto-1775671193299.jpg
+2026-04-22T16:36:13.579Z [debug] Requisição GET na rota /static/uploads/foto-1775670704933.jpg
+2026-04-22T16:36:13.586Z [debug] Requisição GET na rota /static/imgs/avatar.jpg
+2026-04-22T16:36:13.723Z [debug] Requisição GET na rota /favicon.ico
+2026-04-22T16:36:39.697Z [debug] Requisição GET na rota /alunos
+2026-04-22T16:36:40.772Z [debug] Requisição GET na rota /api
+2026-04-22T16:36:57.125Z [debug] Requisição GET na rota /api/doc
+2026-04-22T16:39:43.673Z [info] Iniciando no ambiente development
+2026-04-22T16:39:43.675Z [info] Servidor pronto na porta 8080
+2026-04-22T16:39:48.296Z [info] Iniciando no ambiente development
+2026-04-22T16:39:48.298Z [info] Servidor pronto na porta 8080
+2026-04-22T16:39:55.386Z [info] Iniciando no ambiente development
+2026-04-22T16:39:55.389Z [info] Servidor pronto na porta 8080
+2026-04-22T16:40:00.741Z [info] Iniciando no ambiente development
+2026-04-22T16:40:00.745Z [info] Servidor pronto na porta 8080
+2026-04-22T16:40:24.047Z [info] Iniciando no ambiente development
+2026-04-22T16:40:24.054Z [info] Servidor pronto na porta 8080
+2026-04-22T16:40:41.634Z [info] Iniciando no ambiente development
+2026-04-22T16:40:41.636Z [info] Servidor pronto na porta 8080
+2026-04-22T16:40:45.166Z [info] Iniciando no ambiente development
+2026-04-22T16:40:45.169Z [info] Servidor pronto na porta 8080
+2026-04-22T16:40:50.243Z [info] Iniciando no ambiente development
+2026-04-22T16:40:50.245Z [info] Servidor pronto na porta 8080
+2026-04-22T16:40:55.601Z [info] Iniciando no ambiente development
+2026-04-22T16:40:55.605Z [info] Servidor pronto na porta 8080
+2026-04-22T16:48:33.795Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T16:50:49.272Z [info] Iniciando no ambiente development
+2026-04-22T16:50:49.276Z [info] Servidor pronto na porta 8080
+2026-04-22T16:51:41.903Z [info] Iniciando no ambiente development
+2026-04-22T16:51:41.906Z [info] Servidor pronto na porta 8080
+2026-04-22T16:51:56.764Z [info] Iniciando no ambiente development
+2026-04-22T16:51:56.767Z [info] Servidor pronto na porta 8080
+2026-04-22T16:52:23.336Z [info] Iniciando no ambiente development
+2026-04-22T16:52:23.341Z [info] Servidor pronto na porta 8080
+2026-04-22T16:52:48.289Z [info] Iniciando no ambiente development
+2026-04-22T16:52:48.292Z [info] Servidor pronto na porta 8080
+2026-04-22T16:52:51.226Z [info] Iniciando no ambiente development
+2026-04-22T16:52:51.230Z [info] Servidor pronto na porta 8080
+2026-04-22T16:53:25.803Z [info] Iniciando no ambiente development
+2026-04-22T16:53:25.806Z [info] Servidor pronto na porta 8080
+2026-04-22T16:53:32.486Z [info] Iniciando no ambiente development
+2026-04-22T16:53:32.489Z [info] Servidor pronto na porta 8080
+2026-04-22T16:53:43.292Z [info] Iniciando no ambiente development
+2026-04-22T16:53:43.295Z [info] Servidor pronto na porta 8080
+2026-04-22T16:54:35.721Z [info] Iniciando no ambiente development
+2026-04-22T16:54:35.724Z [info] Servidor pronto na porta 8080
+2026-04-22T16:54:41.076Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T16:55:09.284Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T16:55:22.420Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T16:55:54.202Z [info] Iniciando no ambiente development
+2026-04-22T16:55:54.204Z [info] Servidor pronto na porta 8080
+2026-04-22T16:56:15.112Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T16:56:36.711Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T16:57:03.333Z [info] Iniciando no ambiente development
+2026-04-22T16:57:03.335Z [info] Servidor pronto na porta 8080
+2026-04-22T16:57:10.046Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T16:57:38.380Z [debug] Requisição GET na rota /api/usuarios/3
+2026-04-22T16:58:51.851Z [info] Iniciando no ambiente development
+2026-04-22T16:58:51.855Z [info] Servidor pronto na porta 8080
+2026-04-22T16:59:01.087Z [info] Iniciando no ambiente development
+2026-04-22T16:59:01.090Z [info] Servidor pronto na porta 8080
+2026-04-22T16:59:06.859Z [info] Iniciando no ambiente development
+2026-04-22T16:59:06.864Z [info] Servidor pronto na porta 8080
+2026-04-22T16:59:15.231Z [debug] Requisição GET na rota /api/usuarios/3
+2026-04-22T16:59:18.160Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T16:59:21.086Z [debug] Requisição GET na rota /api/usuarios/3
+2026-04-22T17:01:21.746Z [info] Iniciando no ambiente development
+2026-04-22T17:01:21.749Z [info] Servidor pronto na porta 8080
+2026-04-22T17:01:29.072Z [info] Iniciando no ambiente development
+2026-04-22T17:01:29.075Z [info] Servidor pronto na porta 8080
+2026-04-22T17:01:33.387Z [info] Iniciando no ambiente development
+2026-04-22T17:01:33.390Z [info] Servidor pronto na porta 8080
+2026-04-22T17:01:36.358Z [info] Iniciando no ambiente development
+2026-04-22T17:01:36.360Z [info] Servidor pronto na porta 8080
+2026-04-22T17:01:44.479Z [info] Iniciando no ambiente development
+2026-04-22T17:01:44.482Z [info] Servidor pronto na porta 8080
+2026-04-22T17:01:49.731Z [info] Iniciando no ambiente development
+2026-04-22T17:01:49.734Z [info] Servidor pronto na porta 8080
+2026-04-22T17:01:56.648Z [info] Iniciando no ambiente development
+2026-04-22T17:01:56.652Z [info] Servidor pronto na porta 8080
+2026-04-22T17:02:14.710Z [info] Iniciando no ambiente development
+2026-04-22T17:02:14.715Z [info] Servidor pronto na porta 8080
+2026-04-22T17:02:19.898Z [info] Iniciando no ambiente development
+2026-04-22T17:02:19.901Z [info] Servidor pronto na porta 8080
+2026-04-22T17:02:25.096Z [info] Iniciando no ambiente development
+2026-04-22T17:02:25.100Z [info] Servidor pronto na porta 8080
+2026-04-22T17:03:23.596Z [info] Iniciando no ambiente development
+2026-04-22T17:03:23.600Z [info] Servidor pronto na porta 8080
+2026-04-22T17:03:29.908Z [info] Iniciando no ambiente development
+2026-04-22T17:03:29.911Z [info] Servidor pronto na porta 8080
+2026-04-22T17:03:34.487Z [info] Iniciando no ambiente development
+2026-04-22T17:03:34.490Z [info] Servidor pronto na porta 8080
+2026-04-22T17:07:43.016Z [info] Iniciando no ambiente development
+2026-04-22T17:07:43.019Z [info] Servidor pronto na porta 8080
+2026-04-22T17:08:48.914Z [info] Iniciando no ambiente development
+2026-04-22T17:08:48.918Z [info] Servidor pronto na porta 8080
+2026-04-22T17:09:26.503Z [info] Iniciando no ambiente development
+2026-04-22T17:09:26.506Z [info] Servidor pronto na porta 8080
+2026-04-22T17:10:24.691Z [info] Iniciando no ambiente development
+2026-04-22T17:10:24.694Z [info] Servidor pronto na porta 8080
+2026-04-22T17:10:31.133Z [info] Iniciando no ambiente development
+2026-04-22T17:10:31.136Z [info] Servidor pronto na porta 8080
+2026-04-22T17:10:36.598Z [info] Iniciando no ambiente development
+2026-04-22T17:10:36.600Z [info] Servidor pronto na porta 8080
+2026-04-22T17:11:37.669Z [info] Iniciando no ambiente development
+2026-04-22T17:11:37.677Z [info] Servidor pronto na porta 8080
+2026-04-22T17:11:40.457Z [info] Iniciando no ambiente development
+2026-04-22T17:11:40.459Z [info] Servidor pronto na porta 8080
+2026-04-22T17:11:45.875Z [info] Iniciando no ambiente development
+2026-04-22T17:11:45.881Z [info] Servidor pronto na porta 8080
+2026-04-22T17:11:50.611Z [info] Iniciando no ambiente development
+2026-04-22T17:11:50.614Z [info] Servidor pronto na porta 8080
+2026-04-22T17:11:54.876Z [info] Iniciando no ambiente development
+2026-04-22T17:11:54.879Z [info] Servidor pronto na porta 8080
+2026-04-22T17:12:02.996Z [info] Iniciando no ambiente development
+2026-04-22T17:12:03.000Z [info] Servidor pronto na porta 8080
+2026-04-22T17:12:11.302Z [info] Iniciando no ambiente development
+2026-04-22T17:12:11.305Z [info] Servidor pronto na porta 8080
+2026-04-22T17:12:24.728Z [info] Iniciando no ambiente development
+2026-04-22T17:12:24.730Z [info] Servidor pronto na porta 8080
+2026-04-22T17:13:27.916Z [info] Iniciando no ambiente development
+2026-04-22T17:13:27.921Z [info] Servidor pronto na porta 8080
+2026-04-22T17:13:33.955Z [info] Iniciando no ambiente development
+2026-04-22T17:13:33.960Z [info] Servidor pronto na porta 8080
+2026-04-22T17:13:36.824Z [info] Iniciando no ambiente development
+2026-04-22T17:13:36.827Z [info] Servidor pronto na porta 8080
+2026-04-22T17:14:09.994Z [info] Iniciando no ambiente development
+2026-04-22T17:14:09.998Z [info] Servidor pronto na porta 8080
+2026-04-22T17:14:14.840Z [info] Iniciando no ambiente development
+2026-04-22T17:14:14.844Z [info] Servidor pronto na porta 8080
+2026-04-22T17:21:03.540Z [info] Iniciando no ambiente development
+2026-04-22T17:21:03.542Z [info] Servidor pronto na porta 8080
+2026-04-22T17:21:40.192Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T17:23:58.159Z [info] Iniciando no ambiente development
+2026-04-22T17:23:58.161Z [info] Servidor pronto na porta 8080
+2026-04-22T17:25:16.043Z [info] Iniciando no ambiente development
+2026-04-22T17:25:16.047Z [info] Servidor pronto na porta 8080
+2026-04-22T17:26:07.060Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T17:26:24.741Z [info] Iniciando no ambiente development
+2026-04-22T17:26:24.744Z [info] Servidor pronto na porta 8080
+2026-04-22T17:28:55.072Z [info] Iniciando no ambiente development
+2026-04-22T17:28:55.076Z [info] Servidor pronto na porta 8080
+2026-04-22T17:29:17.340Z [info] Iniciando no ambiente development
+2026-04-22T17:29:17.344Z [info] Servidor pronto na porta 8080
+2026-04-22T17:29:22.247Z [info] Iniciando no ambiente development
+2026-04-22T17:29:22.253Z [info] Servidor pronto na porta 8080
+2026-04-22T17:29:28.571Z [info] Iniciando no ambiente development
+2026-04-22T17:29:28.574Z [info] Servidor pronto na porta 8080
+2026-04-22T17:29:31.459Z [info] Iniciando no ambiente development
+2026-04-22T17:29:31.461Z [info] Servidor pronto na porta 8080
+2026-04-22T17:29:36.202Z [info] Iniciando no ambiente development
+2026-04-22T17:29:36.205Z [info] Servidor pronto na porta 8080
+2026-04-22T17:29:41.301Z [info] Iniciando no ambiente development
+2026-04-22T17:29:41.304Z [info] Servidor pronto na porta 8080
+2026-04-22T17:29:44.978Z [info] Iniciando no ambiente development
+2026-04-22T17:29:44.982Z [info] Servidor pronto na porta 8080
+2026-04-22T17:29:50.191Z [info] Iniciando no ambiente development
+2026-04-22T17:29:50.197Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:02.214Z [info] Iniciando no ambiente development
+2026-04-22T17:30:02.217Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:10.931Z [info] Iniciando no ambiente development
+2026-04-22T17:30:10.934Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:17.398Z [info] Iniciando no ambiente development
+2026-04-22T17:30:17.400Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:20.053Z [info] Iniciando no ambiente development
+2026-04-22T17:30:20.055Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:38.547Z [info] Iniciando no ambiente development
+2026-04-22T17:30:38.550Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:43.956Z [info] Iniciando no ambiente development
+2026-04-22T17:30:43.959Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:47.915Z [info] Iniciando no ambiente development
+2026-04-22T17:30:47.918Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:51.152Z [info] Iniciando no ambiente development
+2026-04-22T17:30:51.155Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:54.261Z [info] Iniciando no ambiente development
+2026-04-22T17:30:54.265Z [info] Servidor pronto na porta 8080
+2026-04-22T17:30:58.273Z [info] Iniciando no ambiente development
+2026-04-22T17:30:58.275Z [info] Servidor pronto na porta 8080
+2026-04-22T17:31:00.792Z [info] Iniciando no ambiente development
+2026-04-22T17:31:00.794Z [info] Servidor pronto na porta 8080
+2026-04-22T17:31:08.843Z [info] Iniciando no ambiente development
+2026-04-22T17:31:08.852Z [info] Servidor pronto na porta 8080
+2026-04-22T17:31:14.317Z [info] Iniciando no ambiente development
+2026-04-22T17:31:14.322Z [info] Servidor pronto na porta 8080
+2026-04-22T17:31:50.555Z [info] Iniciando no ambiente development
+2026-04-22T17:31:50.558Z [info] Servidor pronto na porta 8080
+2026-04-22T17:31:56.054Z [info] Iniciando no ambiente development
+2026-04-22T17:31:56.056Z [info] Servidor pronto na porta 8080
+2026-04-22T17:32:01.208Z [info] Iniciando no ambiente development
+2026-04-22T17:32:01.210Z [info] Servidor pronto na porta 8080
+2026-04-22T17:32:09.391Z [info] Iniciando no ambiente development
+2026-04-22T17:32:09.396Z [info] Servidor pronto na porta 8080
+2026-04-22T17:32:20.582Z [info] Iniciando no ambiente development
+2026-04-22T17:32:20.587Z [info] Servidor pronto na porta 8080
+2026-04-22T17:32:33.737Z [info] Iniciando no ambiente development
+2026-04-22T17:32:33.740Z [info] Servidor pronto na porta 8080
+2026-04-22T17:32:38.351Z [info] Iniciando no ambiente development
+2026-04-22T17:32:38.354Z [info] Servidor pronto na porta 8080
+2026-04-22T17:32:47.809Z [info] Iniciando no ambiente development
+2026-04-22T17:32:47.812Z [info] Servidor pronto na porta 8080
+2026-04-22T17:32:51.150Z [info] Iniciando no ambiente development
+2026-04-22T17:32:51.153Z [info] Servidor pronto na porta 8080
+2026-04-22T17:32:59.797Z [info] Iniciando no ambiente development
+2026-04-22T17:32:59.800Z [info] Servidor pronto na porta 8080
+2026-04-22T17:33:02.495Z [info] Iniciando no ambiente development
+2026-04-22T17:33:02.499Z [info] Servidor pronto na porta 8080
+2026-04-22T17:33:25.202Z [info] Iniciando no ambiente development
+2026-04-22T17:33:25.205Z [info] Servidor pronto na porta 8080
+2026-04-22T17:33:29.832Z [info] Iniciando no ambiente development
+2026-04-22T17:33:29.836Z [info] Servidor pronto na porta 8080
+2026-04-22T17:35:04.389Z [debug] Requisição GET na rota /api/usuarios/3
+2026-04-22T17:35:39.288Z [info] Iniciando no ambiente development
+2026-04-22T17:35:39.290Z [info] Servidor pronto na porta 8080
+2026-04-22T17:35:43.471Z [info] Iniciando no ambiente development
+2026-04-22T17:35:43.474Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:06.301Z [info] Iniciando no ambiente development
+2026-04-22T17:36:06.304Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:10.361Z [info] Iniciando no ambiente development
+2026-04-22T17:36:10.364Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:16.241Z [info] Iniciando no ambiente development
+2026-04-22T17:36:16.245Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:19.657Z [info] Iniciando no ambiente development
+2026-04-22T17:36:19.662Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:22.394Z [info] Iniciando no ambiente development
+2026-04-22T17:36:22.398Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:28.140Z [info] Iniciando no ambiente development
+2026-04-22T17:36:28.144Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:35.506Z [info] Iniciando no ambiente development
+2026-04-22T17:36:35.510Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:41.010Z [info] Iniciando no ambiente development
+2026-04-22T17:36:41.016Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:43.629Z [info] Iniciando no ambiente development
+2026-04-22T17:36:43.632Z [info] Servidor pronto na porta 8080
+2026-04-22T17:36:52.002Z [info] Iniciando no ambiente development
+2026-04-22T17:36:52.006Z [info] Servidor pronto na porta 8080
+2026-04-22T17:37:15.660Z [info] Iniciando no ambiente development
+2026-04-22T17:37:15.665Z [info] Servidor pronto na porta 8080
+2026-04-22T17:37:50.985Z [info] Iniciando no ambiente development
+2026-04-22T17:37:50.988Z [info] Servidor pronto na porta 8080
+2026-04-22T17:38:05.262Z [info] Iniciando no ambiente development
+2026-04-22T17:38:05.267Z [info] Servidor pronto na porta 8080
+2026-04-22T17:38:11.567Z [info] Iniciando no ambiente development
+2026-04-22T17:38:11.570Z [info] Servidor pronto na porta 8080
+2026-04-22T17:38:23.071Z [info] Iniciando no ambiente development
+2026-04-22T17:38:23.076Z [info] Servidor pronto na porta 8080
+2026-04-22T17:38:26.287Z [info] Iniciando no ambiente development
+2026-04-22T17:38:26.291Z [info] Servidor pronto na porta 8080
+2026-04-22T17:38:38.091Z [info] Iniciando no ambiente development
+2026-04-22T17:38:38.095Z [info] Servidor pronto na porta 8080
+2026-04-22T17:39:00.207Z [info] Iniciando no ambiente development
+2026-04-22T17:39:00.210Z [info] Servidor pronto na porta 8080
+2026-04-22T17:39:06.179Z [info] Iniciando no ambiente development
+2026-04-22T17:39:06.183Z [info] Servidor pronto na porta 8080
+2026-04-22T17:39:11.306Z [info] Iniciando no ambiente development
+2026-04-22T17:39:11.310Z [info] Servidor pronto na porta 8080
+2026-04-22T17:39:26.315Z [info] Iniciando no ambiente development
+2026-04-22T17:39:26.318Z [info] Servidor pronto na porta 8080
+2026-04-22T17:39:32.801Z [info] Iniciando no ambiente development
+2026-04-22T17:39:32.804Z [info] Servidor pronto na porta 8080
+2026-04-22T17:39:38.099Z [info] Iniciando no ambiente development
+2026-04-22T17:39:38.102Z [info] Servidor pronto na porta 8080
+2026-04-22T17:39:41.406Z [info] Iniciando no ambiente development
+2026-04-22T17:39:41.410Z [info] Servidor pronto na porta 8080
+2026-04-22T17:39:50.191Z [info] Iniciando no ambiente development
+2026-04-22T17:39:50.194Z [info] Servidor pronto na porta 8080
+2026-04-22T17:39:57.892Z [info] Iniciando no ambiente development
+2026-04-22T17:39:57.895Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:01.173Z [info] Iniciando no ambiente development
+2026-04-22T17:40:01.175Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:04.113Z [info] Iniciando no ambiente development
+2026-04-22T17:40:04.117Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:09.191Z [info] Iniciando no ambiente development
+2026-04-22T17:40:09.193Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:11.665Z [info] Iniciando no ambiente development
+2026-04-22T17:40:11.668Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:14.506Z [info] Iniciando no ambiente development
+2026-04-22T17:40:14.510Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:17.969Z [info] Iniciando no ambiente development
+2026-04-22T17:40:17.973Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:21.751Z [info] Iniciando no ambiente development
+2026-04-22T17:40:21.754Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:28.572Z [info] Iniciando no ambiente development
+2026-04-22T17:40:28.577Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:36.878Z [info] Iniciando no ambiente development
+2026-04-22T17:40:36.881Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:42.376Z [info] Iniciando no ambiente development
+2026-04-22T17:40:42.379Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:49.810Z [info] Iniciando no ambiente development
+2026-04-22T17:40:49.813Z [info] Servidor pronto na porta 8080
+2026-04-22T17:40:58.431Z [info] Iniciando no ambiente development
+2026-04-22T17:40:58.433Z [info] Servidor pronto na porta 8080
+2026-04-22T17:41:01.637Z [info] Iniciando no ambiente development
+2026-04-22T17:41:01.640Z [info] Servidor pronto na porta 8080
+2026-04-22T17:41:07.622Z [info] Iniciando no ambiente development
+2026-04-22T17:41:07.625Z [info] Servidor pronto na porta 8080
+2026-04-22T17:41:13.407Z [info] Iniciando no ambiente development
+2026-04-22T17:41:13.410Z [info] Servidor pronto na porta 8080
+2026-04-22T17:43:21.655Z [info] Iniciando no ambiente development
+2026-04-22T17:43:21.659Z [info] Servidor pronto na porta 8080
+2026-04-22T17:43:25.905Z [info] Iniciando no ambiente development
+2026-04-22T17:43:25.908Z [info] Servidor pronto na porta 8080
+2026-04-22T17:43:33.816Z [info] Iniciando no ambiente development
+2026-04-22T17:43:33.820Z [info] Servidor pronto na porta 8080
+2026-04-22T17:43:37.654Z [info] Iniciando no ambiente development
+2026-04-22T17:43:37.658Z [info] Servidor pronto na porta 8080
+2026-04-22T17:43:47.811Z [info] Iniciando no ambiente development
+2026-04-22T17:43:47.815Z [info] Servidor pronto na porta 8080
+2026-04-22T17:43:51.138Z [info] Iniciando no ambiente development
+2026-04-22T17:43:51.143Z [info] Servidor pronto na porta 8080
+2026-04-22T17:44:28.460Z [info] Iniciando no ambiente development
+2026-04-22T17:44:28.462Z [info] Servidor pronto na porta 8080
+2026-04-22T17:44:36.678Z [info] Iniciando no ambiente development
+2026-04-22T17:44:36.684Z [info] Servidor pronto na porta 8080
+2026-04-22T17:45:03.844Z [info] Iniciando no ambiente development
+2026-04-22T17:45:03.847Z [info] Servidor pronto na porta 8080
+2026-04-22T17:45:24.997Z [info] Iniciando no ambiente development
+2026-04-22T17:45:24.999Z [info] Servidor pronto na porta 8080
+2026-04-22T17:45:32.463Z [info] Iniciando no ambiente development
+2026-04-22T17:45:32.465Z [info] Servidor pronto na porta 8080
+2026-04-22T17:46:38.953Z [info] Iniciando no ambiente development
+2026-04-22T17:46:38.956Z [info] Servidor pronto na porta 8080
+2026-04-22T17:47:25.080Z [debug] Requisição GET na rota /api/usuarios/3
+2026-04-22T17:47:52.394Z [info] Iniciando no ambiente development
+2026-04-22T17:47:52.396Z [info] Servidor pronto na porta 8080
+2026-04-22T18:03:11.070Z [info] Iniciando no ambiente development
+2026-04-22T18:03:11.072Z [info] Servidor pronto na porta 8080
+2026-04-22T18:03:13.944Z [info] Iniciando no ambiente development
+2026-04-22T18:03:13.946Z [info] Servidor pronto na porta 8080
+2026-04-22T18:03:17.505Z [info] Iniciando no ambiente development
+2026-04-22T18:03:17.507Z [info] Servidor pronto na porta 8080
+2026-04-22T18:03:24.478Z [info] Iniciando no ambiente development
+2026-04-22T18:03:24.481Z [info] Servidor pronto na porta 8080
+2026-04-22T18:03:59.874Z [info] Iniciando no ambiente development
+2026-04-22T18:03:59.877Z [info] Servidor pronto na porta 8080
+2026-04-22T18:04:02.898Z [info] Iniciando no ambiente development
+2026-04-22T18:04:02.907Z [info] Servidor pronto na porta 8080
+2026-04-22T18:04:23.762Z [info] Iniciando no ambiente development
+2026-04-22T18:04:23.764Z [info] Servidor pronto na porta 8080
+2026-04-22T18:04:31.020Z [info] Iniciando no ambiente development
+2026-04-22T18:04:31.022Z [info] Servidor pronto na porta 8080
+2026-04-22T18:04:35.133Z [info] Iniciando no ambiente development
+2026-04-22T18:04:35.136Z [info] Servidor pronto na porta 8080
+2026-04-22T18:04:49.806Z [info] Iniciando no ambiente development
+2026-04-22T18:04:49.809Z [info] Servidor pronto na porta 8080
+2026-04-22T18:04:53.161Z [info] Iniciando no ambiente development
+2026-04-22T18:04:53.165Z [info] Servidor pronto na porta 8080
+2026-04-22T18:04:56.875Z [info] Iniciando no ambiente development
+2026-04-22T18:04:56.879Z [info] Servidor pronto na porta 8080
+2026-04-22T18:04:59.206Z [info] Iniciando no ambiente development
+2026-04-22T18:04:59.208Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:06.869Z [info] Iniciando no ambiente development
+2026-04-22T18:05:06.872Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:10.449Z [info] Iniciando no ambiente development
+2026-04-22T18:05:10.452Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:13.415Z [info] Iniciando no ambiente development
+2026-04-22T18:05:13.420Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:22.985Z [info] Iniciando no ambiente development
+2026-04-22T18:05:22.988Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:25.760Z [info] Iniciando no ambiente development
+2026-04-22T18:05:25.766Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:32.486Z [info] Iniciando no ambiente development
+2026-04-22T18:05:32.488Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:35.325Z [info] Iniciando no ambiente development
+2026-04-22T18:05:35.329Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:41.867Z [info] Iniciando no ambiente development
+2026-04-22T18:05:41.870Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:44.768Z [info] Iniciando no ambiente development
+2026-04-22T18:05:44.772Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:51.589Z [info] Iniciando no ambiente development
+2026-04-22T18:05:51.593Z [info] Servidor pronto na porta 8080
+2026-04-22T18:05:57.585Z [info] Iniciando no ambiente development
+2026-04-22T18:05:57.589Z [info] Servidor pronto na porta 8080
+2026-04-22T18:06:05.115Z [info] Iniciando no ambiente development
+2026-04-22T18:06:05.118Z [info] Servidor pronto na porta 8080
+2026-04-22T18:06:10.460Z [info] Iniciando no ambiente development
+2026-04-22T18:06:10.463Z [info] Servidor pronto na porta 8080
+2026-04-22T18:06:15.089Z [info] Iniciando no ambiente development
+2026-04-22T18:06:15.092Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:06.378Z [info] Iniciando no ambiente development
+2026-04-22T18:07:06.382Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:12.882Z [info] Iniciando no ambiente development
+2026-04-22T18:07:12.888Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:15.559Z [info] Iniciando no ambiente development
+2026-04-22T18:07:15.564Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:24.945Z [info] Iniciando no ambiente development
+2026-04-22T18:07:24.949Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:27.973Z [info] Iniciando no ambiente development
+2026-04-22T18:07:27.976Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:32.050Z [info] Iniciando no ambiente development
+2026-04-22T18:07:32.053Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:39.771Z [info] Iniciando no ambiente development
+2026-04-22T18:07:39.773Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:42.448Z [info] Iniciando no ambiente development
+2026-04-22T18:07:42.450Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:45.314Z [info] Iniciando no ambiente development
+2026-04-22T18:07:45.317Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:47.978Z [info] Iniciando no ambiente development
+2026-04-22T18:07:47.984Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:50.688Z [info] Iniciando no ambiente development
+2026-04-22T18:07:50.692Z [info] Servidor pronto na porta 8080
+2026-04-22T18:07:55.495Z [info] Iniciando no ambiente development
+2026-04-22T18:07:55.498Z [info] Servidor pronto na porta 8080
+2026-04-22T18:08:03.644Z [info] Iniciando no ambiente development
+2026-04-22T18:08:03.648Z [info] Servidor pronto na porta 8080
+2026-04-22T18:08:08.412Z [info] Iniciando no ambiente development
+2026-04-22T18:08:08.414Z [info] Servidor pronto na porta 8080
+2026-04-22T18:08:13.537Z [info] Iniciando no ambiente development
+2026-04-22T18:08:13.540Z [info] Servidor pronto na porta 8080
+2026-04-22T18:08:49.011Z [info] Iniciando no ambiente development
+2026-04-22T18:08:49.015Z [info] Servidor pronto na porta 8080
+2026-04-22T18:08:52.672Z [info] Iniciando no ambiente development
+2026-04-22T18:08:52.676Z [info] Servidor pronto na porta 8080
+2026-04-22T18:09:01.588Z [info] Iniciando no ambiente development
+2026-04-22T18:09:01.591Z [info] Servidor pronto na porta 8080
+2026-04-22T18:09:05.968Z [info] Iniciando no ambiente development
+2026-04-22T18:09:05.970Z [info] Servidor pronto na porta 8080
+2026-04-22T18:09:12.172Z [info] Iniciando no ambiente development
+2026-04-22T18:09:12.175Z [info] Servidor pronto na porta 8080
+2026-04-22T18:09:18.055Z [info] Iniciando no ambiente development
+2026-04-22T18:09:18.059Z [info] Servidor pronto na porta 8080
+2026-04-22T18:09:23.724Z [info] Iniciando no ambiente development
+2026-04-22T18:09:23.728Z [info] Servidor pronto na porta 8080
+2026-04-22T18:09:34.823Z [info] Iniciando no ambiente development
+2026-04-22T18:09:34.826Z [info] Servidor pronto na porta 8080
+2026-04-22T18:09:41.526Z [info] Iniciando no ambiente development
+2026-04-22T18:09:41.530Z [info] Servidor pronto na porta 8080
+2026-04-22T18:09:44.198Z [info] Iniciando no ambiente development
+2026-04-22T18:09:44.201Z [info] Servidor pronto na porta 8080
+2026-04-22T18:11:36.336Z [info] Iniciando no ambiente development
+2026-04-22T18:11:36.340Z [info] Servidor pronto na porta 8080
+2026-04-22T18:11:53.714Z [info] Iniciando no ambiente development
+2026-04-22T18:11:53.717Z [info] Servidor pronto na porta 8080
+2026-04-22T18:12:08.276Z [info] Iniciando no ambiente development
+2026-04-22T18:12:08.280Z [info] Servidor pronto na porta 8080
+2026-04-22T18:12:30.033Z [debug] Requisição DELETE na rota /api/usuarios
+2026-04-22T18:13:05.451Z [info] Iniciando no ambiente development
+2026-04-22T18:13:05.453Z [info] Servidor pronto na porta 8080
+2026-04-22T18:13:08.215Z [info] Iniciando no ambiente development
+2026-04-22T18:13:08.217Z [info] Servidor pronto na porta 8080
+2026-04-22T18:13:14.441Z [debug] Requisição DELETE na rota /api/usuarios
+2026-04-22T18:19:58.549Z [info] Iniciando no ambiente development
+2026-04-22T18:19:58.552Z [info] Servidor pronto na porta 8080
+2026-04-22T18:20:07.432Z [info] Iniciando no ambiente development
+2026-04-22T18:20:07.435Z [info] Servidor pronto na porta 8080
+2026-04-22T18:20:15.353Z [info] Iniciando no ambiente development
+2026-04-22T18:20:15.356Z [info] Servidor pronto na porta 8080
+2026-04-22T18:20:21.561Z [info] Iniciando no ambiente development
+2026-04-22T18:20:21.564Z [info] Servidor pronto na porta 8080
+2026-04-22T18:21:22.817Z [info] Iniciando no ambiente development
+2026-04-22T18:21:22.820Z [info] Servidor pronto na porta 8080
+2026-04-22T18:21:31.324Z [info] Iniciando no ambiente development
+2026-04-22T18:21:31.326Z [info] Servidor pronto na porta 8080
+2026-04-22T18:21:37.516Z [info] Iniciando no ambiente development
+2026-04-22T18:21:37.519Z [info] Servidor pronto na porta 8080
+2026-04-22T18:21:41.988Z [info] Iniciando no ambiente development
+2026-04-22T18:21:41.993Z [info] Servidor pronto na porta 8080
+2026-04-22T18:23:34.930Z [info] Iniciando no ambiente development
+2026-04-22T18:23:34.933Z [info] Servidor pronto na porta 8080
+2026-04-22T18:23:48.257Z [info] Iniciando no ambiente development
+2026-04-22T18:23:48.260Z [info] Servidor pronto na porta 8080
+2026-04-22T18:23:59.560Z [info] Iniciando no ambiente development
+2026-04-22T18:23:59.562Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:02.396Z [info] Iniciando no ambiente development
+2026-04-22T18:24:02.398Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:06.565Z [info] Iniciando no ambiente development
+2026-04-22T18:24:06.569Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:12.419Z [info] Iniciando no ambiente development
+2026-04-22T18:24:12.423Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:15.361Z [info] Iniciando no ambiente development
+2026-04-22T18:24:15.364Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:19.647Z [info] Iniciando no ambiente development
+2026-04-22T18:24:19.652Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:23.671Z [info] Iniciando no ambiente development
+2026-04-22T18:24:23.673Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:29.991Z [info] Iniciando no ambiente development
+2026-04-22T18:24:29.994Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:33.469Z [info] Iniciando no ambiente development
+2026-04-22T18:24:33.471Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:42.303Z [info] Iniciando no ambiente development
+2026-04-22T18:24:42.306Z [info] Servidor pronto na porta 8080
+2026-04-22T18:24:47.362Z [info] Iniciando no ambiente development
+2026-04-22T18:24:47.365Z [info] Servidor pronto na porta 8080
+2026-04-22T18:25:42.751Z [info] Iniciando no ambiente development
+2026-04-22T18:25:42.754Z [info] Servidor pronto na porta 8080
+2026-04-22T18:25:56.712Z [info] Iniciando no ambiente development
+2026-04-22T18:25:56.715Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:03.263Z [info] Iniciando no ambiente development
+2026-04-22T18:26:03.268Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:07.214Z [info] Iniciando no ambiente development
+2026-04-22T18:26:07.219Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:10.149Z [info] Iniciando no ambiente development
+2026-04-22T18:26:10.152Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:15.063Z [info] Iniciando no ambiente development
+2026-04-22T18:26:15.066Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:23.515Z [info] Iniciando no ambiente development
+2026-04-22T18:26:23.518Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:26.181Z [info] Iniciando no ambiente development
+2026-04-22T18:26:26.184Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:33.197Z [info] Iniciando no ambiente development
+2026-04-22T18:26:33.200Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:36.971Z [info] Iniciando no ambiente development
+2026-04-22T18:26:36.974Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:42.063Z [info] Iniciando no ambiente development
+2026-04-22T18:26:42.066Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:46.957Z [info] Iniciando no ambiente development
+2026-04-22T18:26:46.963Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:52.022Z [info] Iniciando no ambiente development
+2026-04-22T18:26:52.026Z [info] Servidor pronto na porta 8080
+2026-04-22T18:26:56.006Z [info] Iniciando no ambiente development
+2026-04-22T18:26:56.009Z [info] Servidor pronto na porta 8080
+2026-04-22T18:27:00.207Z [info] Iniciando no ambiente development
+2026-04-22T18:27:00.210Z [info] Servidor pronto na porta 8080
+2026-04-22T18:27:14.745Z [info] Iniciando no ambiente development
+2026-04-22T18:27:14.748Z [info] Servidor pronto na porta 8080
+2026-04-22T18:27:25.243Z [info] Iniciando no ambiente development
+2026-04-22T18:27:25.261Z [info] Servidor pronto na porta 8080
+2026-04-22T18:27:31.856Z [info] Iniciando no ambiente development
+2026-04-22T18:27:31.859Z [info] Servidor pronto na porta 8080
+2026-04-22T18:27:37.170Z [info] Iniciando no ambiente development
+2026-04-22T18:27:37.174Z [info] Servidor pronto na porta 8080
+2026-04-22T18:27:42.746Z [info] Iniciando no ambiente development
+2026-04-22T18:27:42.750Z [info] Servidor pronto na porta 8080
+2026-04-22T18:29:01.414Z [info] Iniciando no ambiente development
+2026-04-22T18:29:01.417Z [info] Servidor pronto na porta 8080
+2026-04-22T18:29:05.338Z [info] Iniciando no ambiente development
+2026-04-22T18:29:05.342Z [info] Servidor pronto na porta 8080
+2026-04-22T18:29:08.846Z [info] Iniciando no ambiente development
+2026-04-22T18:29:08.851Z [info] Servidor pronto na porta 8080
+2026-04-22T18:29:14.098Z [info] Iniciando no ambiente development
+2026-04-22T18:29:14.101Z [info] Servidor pronto na porta 8080
+2026-04-22T18:29:19.921Z [info] Iniciando no ambiente development
+2026-04-22T18:29:19.924Z [info] Servidor pronto na porta 8080
+2026-04-22T18:29:24.165Z [info] Iniciando no ambiente development
+2026-04-22T18:29:24.168Z [info] Servidor pronto na porta 8080
+2026-04-22T18:29:27.102Z [info] Iniciando no ambiente development
+2026-04-22T18:29:27.105Z [info] Servidor pronto na porta 8080
+2026-04-22T18:29:30.514Z [info] Iniciando no ambiente development
+2026-04-22T18:29:30.518Z [info] Servidor pronto na porta 8080
+2026-04-22T18:29:38.734Z [info] Iniciando no ambiente development
+2026-04-22T18:29:38.739Z [info] Servidor pronto na porta 8080
+2026-04-22T18:30:02.135Z [info] Iniciando no ambiente development
+2026-04-22T18:30:02.137Z [info] Servidor pronto na porta 8080
+2026-04-22T18:30:04.704Z [info] Iniciando no ambiente development
+2026-04-22T18:30:04.707Z [info] Servidor pronto na porta 8080
+2026-04-22T18:30:08.134Z [info] Iniciando no ambiente development
+2026-04-22T18:30:08.136Z [info] Servidor pronto na porta 8080
+2026-04-22T18:31:13.390Z [info] Iniciando no ambiente development
+2026-04-22T18:31:13.392Z [info] Servidor pronto na porta 8080
+2026-04-22T18:31:21.591Z [info] Iniciando no ambiente development
+2026-04-22T18:31:21.593Z [info] Servidor pronto na porta 8080
+2026-04-22T18:31:24.280Z [info] Iniciando no ambiente development
+2026-04-22T18:31:24.283Z [info] Servidor pronto na porta 8080
+2026-04-22T18:31:29.457Z [info] Iniciando no ambiente development
+2026-04-22T18:31:29.459Z [info] Servidor pronto na porta 8080
+2026-04-22T18:33:14.138Z [info] Iniciando no ambiente development
+2026-04-22T18:33:14.141Z [info] Servidor pronto na porta 8080
+2026-04-22T18:33:16.573Z [info] Iniciando no ambiente development
+2026-04-22T18:33:16.576Z [info] Servidor pronto na porta 8080
+2026-04-22T18:33:28.869Z [info] Iniciando no ambiente development
+2026-04-22T18:33:28.872Z [info] Servidor pronto na porta 8080
+2026-04-22T18:33:43.562Z [info] Iniciando no ambiente development
+2026-04-22T18:33:43.565Z [info] Servidor pronto na porta 8080
+2026-04-22T18:43:11.053Z [info] Iniciando no ambiente development
+2026-04-22T18:43:11.056Z [info] Servidor pronto na porta 8080
+2026-04-22T18:43:13.714Z [info] Iniciando no ambiente development
+2026-04-22T18:43:13.716Z [info] Servidor pronto na porta 8080
+2026-04-22T18:43:59.777Z [info] Iniciando no ambiente development
+2026-04-22T18:43:59.779Z [info] Servidor pronto na porta 8080
+2026-04-22T18:44:05.789Z [info] Iniciando no ambiente development
+2026-04-22T18:44:05.791Z [info] Servidor pronto na porta 8080
+2026-04-22T18:44:16.989Z [info] Iniciando no ambiente development
+2026-04-22T18:44:16.991Z [info] Servidor pronto na porta 8080
+2026-04-22T18:44:25.859Z [info] Iniciando no ambiente development
+2026-04-22T18:44:25.862Z [info] Servidor pronto na porta 8080
+2026-04-22T18:44:28.909Z [info] Iniciando no ambiente development
+2026-04-22T18:44:28.913Z [info] Servidor pronto na porta 8080
+2026-04-22T18:44:31.334Z [info] Iniciando no ambiente development
+2026-04-22T18:44:31.337Z [info] Servidor pronto na porta 8080
+2026-04-22T18:44:43.270Z [info] Iniciando no ambiente development
+2026-04-22T18:44:43.388Z [info] Servidor pronto na porta 8080
+2026-04-22T20:25:04.178Z [info] Iniciando no ambiente development
+2026-04-22T20:25:04.180Z [info] Servidor pronto na porta 8080
+2026-04-22T20:25:06.198Z [debug] Requisição GET na rota /
+2026-04-22T20:25:06.279Z [debug] Requisição GET na rota /static/uploads/foto-1775671791424.jpg
+2026-04-22T20:25:06.284Z [debug] Requisição GET na rota /static/uploads/foto-1775671193299.jpg
+2026-04-22T20:25:06.293Z [debug] Requisição GET na rota /static/uploads/foto-1775670704933.jpg
+2026-04-22T20:25:06.298Z [debug] Requisição GET na rota /static/imgs/avatar.jpg
+2026-04-22T20:25:42.673Z [info] Iniciando no ambiente development
+2026-04-22T20:25:42.676Z [info] Servidor pronto na porta 8080
+2026-04-22T20:25:45.742Z [info] Iniciando no ambiente development
+2026-04-22T20:25:45.744Z [info] Servidor pronto na porta 8080
+2026-04-22T20:25:58.673Z [info] Iniciando no ambiente development
+2026-04-22T20:25:58.675Z [info] Servidor pronto na porta 8080
+2026-04-22T20:26:51.237Z [info] Iniciando no ambiente development
+2026-04-22T20:26:51.239Z [info] Servidor pronto na porta 8080
+2026-04-22T20:26:55.702Z [info] Iniciando no ambiente development
+2026-04-22T20:26:55.707Z [info] Servidor pronto na porta 8080
+2026-04-22T20:27:01.168Z [info] Iniciando no ambiente development
+2026-04-22T20:27:01.171Z [info] Servidor pronto na porta 8080
+2026-04-22T20:27:18.464Z [info] Iniciando no ambiente development
+2026-04-22T20:27:18.467Z [info] Servidor pronto na porta 8080
+2026-04-22T20:29:29.150Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T20:31:48.847Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-22T20:33:36.638Z [debug] Requisição GET na rota /api/usuarios
+2026-04-22T20:33:44.178Z [debug] Requisição POST na rota /api/posts
+2026-04-22T20:34:44.934Z [info] Iniciando no ambiente development
+2026-04-22T20:34:44.938Z [info] Servidor pronto na porta 8080
+2026-04-22T20:35:32.582Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-22T20:36:14.558Z [debug] Requisição POST na rota /api/posts
+2026-04-22T20:36:48.959Z [debug] Requisição POST na rota /api/posts
+2026-04-22T20:37:36.621Z [info] Iniciando no ambiente development
+2026-04-22T20:37:36.623Z [info] Servidor pronto na porta 8080
+2026-04-22T20:38:01.304Z [info] Iniciando no ambiente development
+2026-04-22T20:38:01.306Z [info] Servidor pronto na porta 8080
+2026-04-22T20:38:32.990Z [debug] Requisição POST na rota /api/usuarios/login
+2026-04-22T20:39:00.420Z [debug] Requisição POST na rota /api/posts
+2026-04-22T20:39:33.323Z [debug] Requisição POST na rota /api/posts
+2026-04-22T20:40:17.067Z [info] Iniciando no ambiente development
+2026-04-22T20:40:17.069Z [info] Servidor pronto na porta 8080
+2026-04-22T20:40:19.729Z [info] Iniciando no ambiente development
+2026-04-22T20:40:19.731Z [info] Servidor pronto na porta 8080

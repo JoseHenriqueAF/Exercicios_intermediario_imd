@@ -1,0 +1,26 @@
+import { StatusBar } from 'expo-status-bar';
+import { StyleSheet, Text, View, Image, Platform, ImageBackground} from 'react-native';
+
+
+
+export default function App() {
+
+
+  return (
+    <ImageBackground source={require('./assets/background/bg.jpg')} style={styles.container}>
+        <Text style={styles.grande}>Olá</Text>
+    </ImageBackground>
+  );
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  grande: {
+    fontSize:50
+  }
+});
